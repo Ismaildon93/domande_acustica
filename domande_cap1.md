@@ -24,7 +24,7 @@
 <p>
 	<h3>DEFINIZIONE DI SORGENTE</h3>
 		<ol>
-			<li><b>Perchè la deformazione della sorgente è occasionale</b></li>
+			<li>Perchè la deformazione della sorgente è occasionale?</li>
 		</ol>
 		<ol>
 			<li> Se la deformazione fosse continua non sarebbe possibile per il corpo ritornare
