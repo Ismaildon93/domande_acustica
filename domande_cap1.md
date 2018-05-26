@@ -1,5 +1,5 @@
 
-<h1><b>1: DOMANDE E DEFINIZIONE DI SUONO</b><h1>
+<h1><b>1: DOMANDE E DEFINIZIONE DI SUONO</b></h1>
 <p>
 	<b>D1)</b> <span style="color:red">Perchè il suono è una sensazione a livello cerebrale?</span><br>
 	<b>D2)</b> <span style="color:red">Perchè il suono riguarda una perturbazione di natura meccanica?</span><br>
